@@ -9,6 +9,9 @@ We developed a complete translation system starting from text in a language to v
  that text to supply to the lip sync module.
  o Integrated text to speech model to generate natural voice to be as input voice to the lip sync 
  module.
+# ToolKits Used
+- Python -PyTorch -Flask
+
 # Accuracy
 Achieved high accuracy in lip sync and demonstrated the system's ability to sync any input language to 
     the target video based on audio features.
